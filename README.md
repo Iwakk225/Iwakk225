@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! you can call me Adit👋
 
 <!--
 **Iwakk225/Iwakk225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![navia](https://i.pinimg.com/originals/98/96/01/989601d84c2a20e44b8c144387c9790b.gif)
+- 🔭 I am currently a vocational school student
+- 🌱 I’m currently learning HTML, CSS and Javascript
+
