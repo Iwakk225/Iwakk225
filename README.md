@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![navia](https://i.pinimg.com/originals/3d/55/34/3d55342e825199fafa695cc6579c449a.gif)
+![navia](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI1bzRoYjdndTQxZjd0bGkycm1maGl2NHk1eWY1Zm8wY3l4eG1ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/54EEL2kV9YjsZDugMp/giphy.gif)
 - 🔭 I am currently a vocational school student
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
